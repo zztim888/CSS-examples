@@ -1,0 +1,5 @@
+span{
+	display:inline; /* an inline element takes up the nessecasry width*/
+}span.one{
+	display:grid	; /* an inline element takes up the nessecasry width*/
+/* } */

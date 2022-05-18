@@ -1,0 +1,58 @@
+BORDER RADIUS
+
+border-radius:20px;
+	padding:20px;
+	height:60px;
+	width:100px;
+
+COLORS
+rbga(255,255,255,0)
+rbga(red,blue,green,alpha)
+alpha for opacity, value between 0-1, where 1.0 is the fully opaque
+
+
+PSEUDO CLASSES
+<div id="parent">
+<p>First paragraph</p>
+<p>seond paragraph</p>
+<p>third paragraph</p>
+<p>fourth paragraph</p>
+</div>
+
+allows you to change only the first element
+#parent p:first-child{ 
+color:green;
+text-decoration: underline;
+
+p.one::after allow an image after the word, ::before is the opposite
+
+a box
+p{
+height:100px
+width:100px
+border:1px solid blue;
+word-wrap:breakdown; breaks down long words to fit into the box
+word-wrap:normal
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

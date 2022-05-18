@@ -1,0 +1,37 @@
+#parent p:first-child{
+color:green;
+text-decoration: underline;
+}
+
+#parent {
+	font-weight:bolder;
+	font-family:"Bahnschrift";
+	color:purple;
+
+}
+
+#parot p:last-child{
+color:green;
+text-decoration: line-through;
+}
+
+#parot {
+	
+	font-family:"Comic Sans MS";
+	color:red;
+
+}
+
+body{
+	background-image: url("molly sanden.png");
+	background-repeat:-y;
+}
+
+
+
+
+
+
+
+
+

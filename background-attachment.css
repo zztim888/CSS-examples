@@ -1,0 +1,15 @@
+body{
+	background-image: url("roman museum backgroung.png");
+	background-attachment:fixed;
+	background-repeat:repeat-y;
+	
+	
+}
+
+p.first{
+	color:white;
+}
+
+div{
+	color:yellow;
+}

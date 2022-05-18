@@ -1,0 +1,17 @@
+body{
+	background-image: url("rome.png");
+	background-repeat:repeat-y;
+	background-attachment:no-fixed;	
+
+}
+
+p.first{
+	color:white;
+	font-variant:small-caps;
+}
+
+div{
+	color:yellow;
+	font-family:"MS Gothic";
+	font-size: 30px;	
+}

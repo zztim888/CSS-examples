@@ -1,0 +1,29 @@
+h1{
+	font-variant:small-caps;
+	font-weight:lighter;
+	color:purple;
+}
+
+div{
+	padding:80px;
+	height:30px;
+	width:80px;
+	box-shadow:10px 10px 20px 20px #888888;
+	
+	
+	background-color:lightgreen;
+	font-variant:small-caps;
+}
+
+p{
+	padding:80px;
+	height:30px;
+	width:80px;
+	box-shadow:-10px -10px 15px 15px #888888;  /*the value can also be negative*/
+	color:black;
+	font-family: 
+	
+	background-color:blue;
+	font-variant:small-caps;
+	
+}

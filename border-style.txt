@@ -1,0 +1,61 @@
+p.first{
+	padding:10px;
+	border: 5px solid green;
+	border-style:none;
+}
+p.second{
+	padding:20px;
+	border: 10px solid;
+	border-style:
+	
+	text-shadow: 5px 2px 4px grey:
+	font-size:20pt;
+	font-variant: small-caps;
+	text-shadow: rbga(0,0,255,1) 5px 4px 0.5em;	
+}
+p.third{
+	padding:10px;
+	border: 10px solid purple;
+	border-style:dotted;
+	color:blue;
+}
+p.fourth{
+	padding;10px;
+	border-style:dashed;
+	border-width:2px;	
+}
+p.fifth{
+	padding;10px;
+	border-style:double;
+	border-width:5px;	/* the border can separately*/
+}
+h1{
+	font-size:20pt;
+	text-shadow:rgba(20,0,155,1) -1px -2px 0.5em;
+	color:black;
+	padding;10px;
+	border-style:groove;
+	border-width:5px;	
+}
+
+p.sixth{
+	padding;10px;
+	border-style:ridge;
+	border-width:2px;
+}
+p.seventh{
+	padding;10px;
+	border-style:insert;
+	border-width:2px;
+}
+p.eighth{
+	padding;10px;
+	border-style:outset;
+	border-width:2px;
+}
+p.ninth{
+	padding;20px;
+	border-style:hidden;
+	border-width:2px;
+}
+

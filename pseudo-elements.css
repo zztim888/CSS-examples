@@ -1,0 +1,22 @@
+p::first-line{
+	color: #589432;
+	text-transform:uppercase;
+	letter-spacing:3px;
+	word-spacing: 5px;
+	font-weight: bolder;
+}
+
+p{
+	font-family:"Candara Light";
+}
+
+div::before{
+	content:url(eye.png)
+	
+
+}
+
+p.one::after{
+	color:red;
+	content:url(eye.png)
+}

@@ -1,0 +1,5 @@
+ul{
+	list-style-image: url("star.png");
+	list-style-position:inside;
+
+}

@@ -1,0 +1,24 @@
+body{
+	background-image: url("roman museum backgroung.png");
+	background-attachment:scroll;
+	
+	
+	
+}
+
+p.first{
+	color:white;
+	
+}
+
+p.second{
+	color:white;
+}
+
+p.third{
+	color:white;
+}
+
+div{
+	color:yellow;
+}

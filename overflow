@@ -1,0 +1,46 @@
+<head>
+
+<link rel="stylesheet" href="clear float.css">
+
+</head>
+<body>
+
+
+this text is before the div property so it not affected by the float
+right property
+
+<br/> <br/>
+
+ 
+ <div class="floating">
+ <img src="drinks-small.png">
+ </div>
+ 
+ this text is after the div property so its affected by the float
+right property
+ <br/> <br class="clearing" />
+ 
+ this text is after also the div property so its affected by the float
+right property
+ <br/> <br/>
+	
+
+ i've written something. i've written something.i've written something.
+ i've written something. i've written something.i've written something.
+ i've written something.
+ i've written something. i've written something.i've written something.
+ i've written something. i've written something.i've written something.
+ i've written something. i've written something.i've written something.
+ i've written something. i've written something.i've written something.
+ i've written something. i've written something.i've written something.
+ i've written something. i've written something.i've written something.
+ i've written something. i've written something.i've written something.
+ i've written something. i've written something.i've written something.
+
+ </div>
+ 
+ <br/> <br/>
+
+
+</body>
+</html>

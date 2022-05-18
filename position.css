@@ -1,0 +1,18 @@
+div.hidden{
+	color: purple;
+	font-variant:small-caps;
+}
+p.position_fixed{
+	position:fixed;
+	top:30px;
+	right:7px;
+	color: #a9a9a9;
+
+}p.position_fixed2{
+	position:fixed;/* the text does not move even if you scroll*/
+	top:40px;
+	right:7px;
+	color: red;
+
+
+}

@@ -1,0 +1,18 @@
+p.first{
+	padding;10px;
+	border-style:solid;
+	border-width:5px;
+	border-color:blue;
+	
+}
+p.second{
+	ppadding;10px;
+	border-style:solid;
+	border-width:5px;
+	border-color:#FF0000;	
+}
+p.third{
+	padding;10px;
+	border-style:solid;
+	border-width:5px;
+	border-color:rbg(0,0,255,);
